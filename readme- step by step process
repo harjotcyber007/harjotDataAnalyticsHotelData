@@ -1,0 +1,10 @@
+Project read me - step by step project 
+After extracting data from project folders we nee.d to open power BI software then we will create duplicate files in order to extract single binary file and will make the factor table as a center and all the dim table booking table reservation tables rating tables around the fact table.
+In the next step we will promote the headers in the power BI settings and check the variable types and values if it is correct for example if the value is paid then we must confirm the format of date then if the value is floating number then we must compare with the number and the floating integers.
+After implementing all the steps in the powered BI query editor we will just close and apply the data and transform the data into the new power bi window to get all the data and we can start making files and do the calculation and analysis.
+After loading the data we just need to do the data modeling to establish relationship between all the data files we will put the fact tables in the center and all the other tables around it using the star methodology.
+In the very next step after confirming the relationship between all the tables using primary key and foreign key now we will use the Dax Dax it means data analysis expression in which we can alter and modify our data columns means if we don't need the particular column or the row we can apply methods or formula.
+Now we can start developing analysis charts and breakdown the data by putting the appropriate columns with data and changing it with the sliders or the another data points.
+Now after developing the visualization chart we can just transform the data and putting the most particular boxes and apply the bar graph pie charts and Instagram charts with data to start doing visualization.
+
+
